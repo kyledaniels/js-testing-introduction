@@ -1,7 +1,7 @@
 const generateText = (name, age) => {
   // Returns output text
   // return `${name} (${age} years old)`;
-  return 'Max (29 years old)';
+  return 'Anna (28 years old)';
 };
 
 const createElement = (type, text, className) => {
